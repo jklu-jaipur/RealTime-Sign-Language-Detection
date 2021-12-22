@@ -25,7 +25,6 @@ We have used the labelImg tool to label the dataset.
 
 3. detection.ipynb file uses the trained model for the real-time detection(usesOpen CV).
 
-#OUTPUT
 ![image](https://user-images.githubusercontent.com/44231364/147047421-fa1164b9-e5d4-4fdf-8b7f-e9792fc40018.png)
 ![image](https://user-images.githubusercontent.com/44231364/147047448-68d71d4a-1b08-4cf8-a1f8-9bbac039a5d7.png)
 
